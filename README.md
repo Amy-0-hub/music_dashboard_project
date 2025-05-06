@@ -21,7 +21,7 @@ The data comes from a music and mental health survey dataset: 'music_health.csv'
 This project is deployed via [Render](https://render.com/).
 
 ```bash
-git clone https://github.com/yourusername/music_dashboard_project.git
+git clone https://github.com/Amy-0-hub/music_dashboard_project.git
 cd music-dashboard-project
 pip install -r requirements.txt
 streamlit run final_project.py
