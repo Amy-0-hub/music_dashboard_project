@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 #load data
-df = pd.read_csv("/Users/yaqin/DataVisualization/Music_dashboard_project/music_health.csv").dropna()
+df = pd.read_csv("music_health.csv").dropna()
 
 
 #sidebar filters
