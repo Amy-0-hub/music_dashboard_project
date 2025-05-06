@@ -18,7 +18,7 @@ The data comes from a music and mental health survey dataset: 'music_health.csv'
 4. Pandas
 
 ## Deployment
-This project is deployed via [Render](https://render.com/).
+This project is deployed via [Render](https://music-dashboard-project.onrender.com).
 
 ```bash
 git clone https://github.com/Amy-0-hub/music_dashboard_project.git
