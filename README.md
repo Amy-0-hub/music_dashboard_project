@@ -22,6 +22,6 @@ This project is deployed via [Render](https://render.com/).
 
 ```bash
 git clone https://github.com/Amy-0-hub/music_dashboard_project.git
-cd music-dashboard-project
+cd music_dashboard_project
 pip install -r requirements.txt
 streamlit run final_project.py
